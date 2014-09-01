@@ -4,7 +4,7 @@
   },
 
   "sidebar": {
-    "opintopolku": "Studieinfo",
+    "opintopolku": "Min Studieinfo",
     "applications": "Mina ansökningsblanketter"
   },
 
@@ -18,10 +18,10 @@
     "location_university": "Undervisningsställe",
     "education": "Utbildning",
     "education_university": "Utbildning",
-    "chooseLocation": "Välj först undervisnigsställe",
+    "chooseLocation": "Välj först undervisningsställe",
     "resultsPublishedDate": "Resultatet av antagningen publiceras",
-    "questionGroupWithTitle": "Additional questions",
-    "questionGroupWithoutTitle": "Additional questions"
+    "questionGroupWithTitle": "Tilläggsfrågor",
+    "questionGroupWithoutTitle": "Tilläggsfrågor"
   },
 
   "button": {
@@ -36,14 +36,14 @@
 
   "message": {
     "loadingApplications": "Laddar ansökningsblanketter…",
-    "loadingData": "Laddar...",
+    "loadingData": "Laddar upp...",
     "noApplications": "Du har inga ansökningsblanketter att bearbeta. Sök utbildningar med ordsökningen och fyll i ansökningblanketten. Som identifierad användare kan du bearbeta din ansökan på denna sida under ansökningtiden.",
     "validationOk": "Kom ihåg att spara ansökan.",
     "changesSaved": "Alla ändringar sparade.",
     "yes": "Ja",
     "no": "Nej",
-    "rememberSendAttachments": "Kom ihåg <a>bilagorna</a>.",
-    "applicationIsInPostProcessing": "Hakemuksesi on vielä käsiteltävänä. Jos haluat muuttaa hakutoiveitasi, yritä myöhemmin uudelleen."
+    "rememberSendAttachments": "Kom ihåg att skicka bilagor.",
+    "applicationIsInPostProcessing": "Din ansökan är under behandling. Försök senare på nytt om du vill ändra dina ansökningsönskemål."
   },
 
   "error": {
